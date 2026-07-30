@@ -69,6 +69,7 @@ For example, both of the following filenames are valid:
 server-certificates.zip
 test123456.zip
 ```
+<img width="886" height="133" alt="root" src="https://github.com/user-attachments/assets/ba71c1d6-2343-4ffc-b08a-2071270836ac" />
 
 ### Recommended Structure
 
@@ -82,6 +83,8 @@ provisioning.zip
         ├── client-01.p12
         └── client-02.p12
 ```
+
+<img width="990" height="738" alt="json" src="https://github.com/user-attachments/assets/4f5c00f5-56b3-470f-b9d0-b16a6e64befb" />
 
 A demonstration provisioning package is available in the [Releases](https://github.com/Moicanox/TAK-Server-Provisioner/releases/latest) section.
 
