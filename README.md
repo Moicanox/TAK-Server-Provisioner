@@ -110,4 +110,13 @@ This is an independent project and is not affiliated with, sponsored by, or endo
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+TAK Server Provisioner is distributed as proprietary freeware.
+
+The compiled APK may be downloaded and used free of charge under the terms
+contained in the [LICENSE](LICENSE) file.
+
+The source code is not included and is not licensed for distribution,
+modification or reuse.
+
+Please distribute only links to the official GitHub Releases page. Rehosting
+or redistributing the APK is not permitted.
